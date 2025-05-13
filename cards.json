@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Card A",
+    "spend_threshold": 500,
+    "rewards": "5% cashback"
+  },
+  {
+    "name": "Card B",
+    "spend_threshold": 1000,
+    "rewards": "3% cashback + travel points"
+  },
+  {
+    "name": "Card C",
+    "spend_threshold": 2000,
+    "rewards": "2% cashback + priority pass"
+  }
+]
